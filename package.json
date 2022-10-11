@@ -1,0 +1,39 @@
+{
+    "name": "KirBotz-Ganteng",
+    "version": "3.0.0",
+    "description": "Jangan Ubah Nama Di Atas",
+    "main": "next.js",
+    "type": "commonjs",
+    "scripts": {
+          "start": "node next.js"
+    },
+    "keywords": [
+          "termux",
+          "whatsapp",
+          "2021",
+          "wabase-md",
+          "base",
+          "baileys-md",
+          "bot",
+          "bot-md",
+          "multi-device"
+        ],
+    "author": "Akira",
+    "license": "MIT",
+    "dependencies": { 
+          "@kirbotz/baileys": "github:KirBotz/fixedbaileys"
+    },
+    "directories": {
+          "lib": "lib",
+          "src": "src"
+    },
+    "devDependencies": {},
+    "repository": {
+          "type": "git",
+          "url": "git+https://github.com/KirBotz/SELF-KIR-TOD.git"
+    },
+    "bugs": {
+          "url": "https://github.com/KirBotz/SELF-KIR-TOD/issues"
+    },
+    "homepage": "https://github.com/KirBotz/SELF-KIR-TOD#readme"
+}
